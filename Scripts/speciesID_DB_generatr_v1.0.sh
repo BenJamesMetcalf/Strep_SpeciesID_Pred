@@ -35,7 +35,7 @@ do
     #echo "Line is: $line"
     labid=$(echo $line | cut -d',' -f1 | sed -e 's/^[ \t]*//' -e 's/\ *$//g')
     species=$(echo $line | cut -d',' -f3 | sed -e 's/^[ \t]*//' -e 's/\ *$//g')
-    cPath=$(echo $line | cut -d',' -f9 | sed -e 's/^[ \t]*//' -e 's/\ *$//g')
+    cPath=$(echo $line | cut -d',' -f5 | sed -e 's/^[ \t]*//' -e 's/\ *$//g')
     aName=$(basename $cPath | sed -e 's/^[ \t]*//' -e 's/\ *$//g')
     newName="${labid}_${species}.fna"
     echo "Name is: $newName"

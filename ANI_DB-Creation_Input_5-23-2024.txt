@@ -1,0 +1,405 @@
+NCBI68,GCA_000769695.1,Oenococcus-alcoholitolerans,Oenococcus alcoholitolerans,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCA_000769695.1_ASM76969v1_genomic.fna
+NCBI32,GCA_015680865.1,Enterococcus-lacertideformus,"Enterococcus lacertideformus",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCA_015680865.1_ASM1568086v1_genomic.fna
+NCBI80,GCA_019115705.1,Tetragenococcus-pullicola,"Candidatus Tetragenococcus pullicola",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCA_019115705.1_ASM1911570v1_genomic.fna
+NCBI63,GCF_000092505.1,Leuconostoc-kimchii,Leuconostoc kimchii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000092505.1_ASM9250v1_genomic.fna
+NCBI10,GCF_000188015.2,Streptococcus-ictaluri,Streptococcus ictaluri,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000188015.2_ASM18801v3_genomic.fna
+NCBI62,GCF_000196855.1,Leuconostoc-gasicomitatum,Leuconostoc gasicomitatum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000196855.1_ASM19685v1_genomic.fna
+NCBI105,GCF_000277645.1,Weissella-koreensis,Weissella koreensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000277645.1_ASM27764v1_genomic.fna
+NCBI24,GCF_000315445.1,Alloiococcus-otitis,Alloiococcus otitis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000315445.1_Allo_otit_ATCC_51267_V1_genomic.fna
+NCBI69,GCF_000372485.1,Oenococcus-oeni,Oenococcus oeni,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000372485.1_ASM37248v1_genomic.fna
+NCBI103,GCF_000420365.1,Weissella-halotolerans,Weissella halotolerans,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000420365.1_ASM42036v1_genomic.fna
+NCBI78,GCF_000423785.1,Tetragenococcus-muriaticus,Tetragenococcus muriaticus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000423785.1_ASM42378v1_genomic.fna
+NCBI90,GCF_000493735.1,Carnobacterium-inhibens-gilichinskyi ,Carnobacterium inhibens subsp. gilichinskyi,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000493735.1_ASM49373v1_genomic.fna
+NCBI108,GCF_000691805.2,Weissella-oryzae,Weissella oryzae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000691805.2_ASM69180v2_genomic.fna
+NCBI110,GCF_000732905.1,Weissella-tructae,"Weissella tructae",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000732905.1_ASM73290v1_genomic.fna
+NCBI88,GCF_000744185.1,Carnobacterium-funditum,Carnobacterium funditum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000744185.1_ASM74418v1_genomic.fna
+NCBI94,GCF_000744285.1,Carnobacterium-pleistocenium,Carnobacterium pleistocenium,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000744285.1_ASM74428v1_genomic.fna
+NCBI93,GCF_000744945.1,Carnobacterium-maltaromaticum,Carnobacterium maltaromaticum corrig.,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000744945.1_ASM74494v1_genomic.fna
+NCBI92,GCF_000745125.1,Carnobacterium-jeotgali,Carnobacterium jeotgali,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000745125.1_ASM74512v1_genomic.fna
+NCBI91,GCF_000746825.1,Carnobacterium-inhibens-inhibens,Carnobacterium inhibens subsp. inhibens,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_000746825.1_ASM74682v1_genomic.fna
+NCBI72,GCF_001436905.1,Pediococcus-claussenii,Pediococcus claussenii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001436905.1_ASM143690v1_genomic.fna
+NCBI73,GCF_001437255.1,Pediococcus-damnosus,Pediococcus damnosus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001437255.1_ASM143725v1_genomic.fna
+NCBI74,GCF_001437405.1,Pediococcus-ethanolidurans,Pediococcus ethanolidurans,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001437405.1_ASM143740v1_genomic.fna
+NCBI106,GCF_001437425.1,Weissella-minor,Weissella minor,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001437425.1_ASM143742v1_genomic.fna
+NCBI71,GCF_001438655.1,Pediococcus-cellicola,Pediococcus cellicola,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001438655.1_ASM143865v1_genomic.fna
+NCBI104,GCF_001438705.1,Weissella-kandleri,Weissella kandleri,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001438705.1_ASM143870v1_genomic.fna
+NCBI87,GCF_001483965.1,Carnobacterium-antarcticum,Carnobacterium antarcticum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001483965.1_ASM148396v1_genomic.fna
+NCBI36,GCF_001601555.1,Enterococcus-pernyi,"Enterococcus pernyi",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001601555.1_ASM160155v1_genomic.fna
+NCBI65,GCF_001886915.1,Leuconostoc-mesenteroides-jonggajibkimchii,Leuconostoc mesenteroides subsp. jonggajibkimchii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001886915.1_ASM188691v1_genomic.fna
+NCBI61,GCF_001998805.1,Leuconostoc-garlicum,"Leuconostoc garlicum",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_001998805.1_ASM199880v1_genomic.fna
+NCBI50,GCF_002441655.1,Lactococcus-fujiensis,Lactococcus fujiensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_002441655.1_ASM244165v1_genomic.fna
+NCBI21,GCF_002871915.2,Aerococcus-loyolae,Aerococcus loyolae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_002871915.2_ASM287191v2_genomic.fna
+NCBI76,GCF_002922845.1,Tetragenococcus-halophilus-flandriensis,Tetragenococcus halophilus subsp. flandriensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_002922845.1_ASM292284v1_genomic.fna
+NCBI75,GCF_002982135.1,Pediococcus-inopinatus,Pediococcus inopinatus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_002982135.1_ASM298213v1_genomic.fna
+NCBI6,GCF_003143695.2,Streptococcus-halitosis,"Streptococcus halitosis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003143695.2_ASM314369v2_genomic.fna
+NCBI22,GCF_003286595.3,Aerococcus-mictus,Aerococcus mictus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003286595.3_ASM328659v3_genomic.fna
+NCBI23,GCF_003286645.3,Aerococcus-tenax,Aerococcus tenax,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003286645.3_ASM328664v3_genomic.fna
+NCBI45,GCF_003627095.1,Lactococcus-allomyrinae,Lactococcus allomyrinae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003627095.1_ASM362709v1_genomic.fna
+NCBI5 ,GCF_003627155.1,Streptococcus-gwangjuense,"Streptococcus gwangjuense",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003627155.1_ASM362715v1_genomic.fna
+NCBI79,GCF_003795125.1,Tetragenococcus-osmophilus,Tetragenococcus osmophilus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003795125.1_ASM379512v1_genomic.fna
+NCBI77,GCF_003795145.1,Tetragenococcus-koreensis,Tetragenococcus koreensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003795145.1_ASM379514v1_genomic.fna
+NCBI19,GCF_003797145.1,Aerococcus-agrisoli,Aerococcus agrisoli,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_003797145.1_ASM379714v1_genomic.fna
+NCBI70,GCF_004102045.2,Oenococcus-sicerae,"Oenococcus sicerae",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_004102045.2_ASM410204v2_genomic.fna
+NCBI55,GCF_004210295.1,Lactococcus-kimchii,Lactococcus kimchii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_004210295.1_ASM421029v1_genomic.fna
+NCBI30,GCF_004309355.1,Enterococcus-florum,Enterococcus florum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_004309355.1_ASM430935v1_genomic.fna
+NCBI47,GCF_004354515.1,Lactococcus-cremoris-cremoris,Lactococcus cremoris subsp. cremoris,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_004354515.1_ASM435451v1_genomic.fna
+NCBI43,GCF_004524775.2,Helcococcus-ovis,Helcococcus ovis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_004524775.2_ASM452477v2_genomic.fna
+NCBI109,GCF_005405285.1,Weissella-sagaensis,Weissella sagaensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_005405285.1_ASM540528v1_genomic.fna
+NCBI31,GCF_005405485.1,Enterococcus-hulanensis,Enterococcus hulanensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_005405485.1_ASM540548v1_genomic.fna
+NCBI96,GCF_005405505.1,Weissella-bombi,Weissella bombi,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_005405505.1_ASM540550v1_genomic.fna
+NCBI98,GCF_005405525.1,Weissella-cibaria,Weissella cibaria,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_005405525.1_ASM540552v1_genomic.fna
+NCBI18,GCF_006385805.1,Streptococcus-xiaochunlingii,"Streptococcus xiaochunlingii",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_006385805.1_ASM638580v1_genomic.fna
+NCBI46,GCF_006770265.1,Lactococcus-carnosus,Lactococcus carnosus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_006770265.1_ASM677026v1_genomic.fna
+NCBI58,GCF_006770285.1,Lactococcus-paracarnosus,Lactococcus paracarnosus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_006770285.1_ASM677028v1_genomic.fna
+NCBI59,GCF_006965445.1,Lactococcus-protaetiae,"Lactococcus protaetiae",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_006965445.1_ASM696544v1_genomic.fna
+NCBI3 ,GCF_007859195.1,Streptococcus-cuniculipharyngis,Streptococcus cuniculipharyngis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_007859195.1_ASM785919v1_genomic.fna
+NCBI107,GCF_008107635.1,Weissella-muntiaci,Weissella muntiaci,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_008107635.1_ASM810763v1_genomic.fna
+NCBI64,GCF_008107645.1,Leuconostoc-litchii,Leuconostoc litchii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_008107645.1_ASM810764v1_genomic.fna
+NCBI4 ,GCF_009767945.1,Streptococcus-danieliae,Streptococcus danieliae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_009767945.1_ASM976794v1_genomic.fna
+NCBI54,GCF_011170065.1,Lactococcus-insecticola,Lactococcus insecticola,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_011170065.1_ASM1117006v1_genomic.fna
+NCBI52,GCF_011170085.1,Lactococcus-hodotermopsidis,Lactococcus hodotermopsidis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_011170085.1_ASM1117008v1_genomic.fna
+NCBI82,GCF_011303955.1,Vagococcus-coleopterorum,Vagococcus coleopterorum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_011303955.1_ASM1130395v1_genomic.fna
+NCBI99,GCF_011304355.1,Weissella-coleopterorum,Weissella coleopterorum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_011304355.1_ASM1130435v1_genomic.fna
+NCBI13,GCF_011387195.1,Streptococcus-ruminicola,"Streptococcus ruminicola",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_011387195.1_ASM1138719v1_genomic.fna
+NCBI7,GCF_014287335.1,Streptococcus-hominis,Streptococcus hominis (illegitimate taxonomic name),/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_014287335.1_ASM1428733v1_genomic.fna
+NCBI100,GCF_014397255.1,Weissella-diestrammenae,Weissella diestrammenae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_014397255.1_ASM1439725v1_genomic.fna
+NCBI60,GCF_014634805.1,Leuconostoc-falkenbergense,Leuconostoc falkenbergense,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_014634805.1_ASM1463480v1_genomic.fna
+NCBI39,GCF_015863205.1,Facklamia-lactis,Facklamia lactis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_015863205.1_ASM1586320v1_genomic.fna
+NCBI11,GCF_016481305.1,Streptococcus-pacificus,Streptococcus pacificus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_016481305.1_ASM1648130v1_genomic.fna
+NCBI12,GCF_016648795.1,Streptococcus-parasalivarius,"Streptococcus parasalivarius",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_016648795.1_ASM1664879v1_genomic.fna
+NCBI111,GCF_016908785.1,Weissella-uvarum,Weissella uvarum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_016908785.1_ASM1690878v1_genomic.fna
+NCBI16,GCF_017315345.1,Streptococcus-vaginalis,"Streptococcus vaginalis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_017315345.1_ASM1731534v1_genomic.fna
+NCBI81,GCF_017829975.1,Vagococcus-allomyrinae,Vagococcus allomyrinae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_017829975.1_ASM1782997v1_genomic.fna
+NCBI33,GCF_017830045.1,Enterococcus-larvae,Enterococcus larvae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_017830045.1_ASM1783004v1_genomic.fna
+NCBI97,GCF_018394055.1,Weissella-ceti,Weissella ceti,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_018394055.1_ASM1839405v1_genomic.fna
+NCBI49,GCF_018403725.1,Lactococcus-formosensis-bovis,Lactococcus formosensis subsp. bovis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_018403725.1_ASM1840372v1_genomic.fna
+NCBI48,GCF_018403745.1,Lactococcus-formosensis,Lactococcus formosensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_018403745.1_ASM1840374v1_genomic.fna
+NCBI57,GCF_018403765.1,Lactococcus-nasutitermitis,Lactococcus nasutitermitis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_018403765.1_ASM1840376v1_genomic.fna
+NCBI26,GCF_019218635.1,Enterococcus-alishanensis,Enterococcus alishanensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_019218635.1_ASM1921863v1_genomic.fna
+NCBI17,GCF_019218685.1,Streptococcus-vulneris,"Streptococcus vulneris",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_019218685.1_ASM1921868v1_genomic.fna
+NCBI8,GCF_019448275.1,Streptococcus-humanilactis,"Streptococcus humanilactis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_019448275.1_ASM1944827v1_genomic.fna
+NCBI66,GCF_019656055.1,Leuconostoc-miyukkimchii,Leuconostoc miyukkimchii,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_019656055.1_ASM1965605v1_genomic.fna
+NCBI67,GCF_019656095.1,Leuconostoc-rapi,Leuconostoc rapi,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_019656095.1_ASM1965609v1_genomic.fna
+NCBI41,GCF_024543085.1,Granulicatella-seriolae,"Granulicatella seriolae",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_024543085.1_ASM2454308v1_genomic.fna
+NCBI84,GCF_024637875.1,Vagococcus-luciliae,Vagococcus luciliae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_024637875.1_ASM2463787v1_genomic.fna
+NCBI101,GCF_024718545.1,Weissella-fangxianensis,Weissella fangxianensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_024718545.1_ASM2471854v1_genomic.fna
+NCBI14,GCF_024814375.1,Streptococcus-sciuri,Streptococcus sciuri,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_024814375.1_ASM2481437v1_genomic.fna
+NCBI102,GCF_025908565.2,Weissella-fermenti,"Weissella fermenti",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_025908565.2_ASM2590856v2_genomic.fna
+NCBI20,GCF_026805525.1,Aerococcus-kribbianus,Aerococcus kribbianus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_026805525.1_ASM2680552v1_genomic.fna
+NCBI85,GCF_029143285.1,Vagococcus-proximus,Vagococcus proximus,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_029143285.1_ASM2914328v1_genomic.fna
+NCBI83,GCF_029144185.1,Vagococcus-intermedius,Vagococcus intermedius,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_029144185.1_ASM2914418v1_genomic.fna
+NCBI51,GCF_029761755.1,Lactococcus-garvieae,Lactococcus garvieae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_029761755.1_ASM2976175v1_genomic.fna
+NCBI35,GCF_029983095.1,Enterococcus-montenegrensis,Enterococcus montenegrensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_029983095.1_ASM2998309v1_genomic.fna
+NCBI29,GCF_030441825.1,Enterococcus-entomosocium,"Enterococcus entomosocium",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_030441825.1_ASM3044182v1_genomic.fna
+NCBI37,GCF_030441955.1,Enterococcus-spodopteracolus,"Enterococcus spodopteracolus",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_030441955.1_ASM3044195v1_genomic.fna
+NCBI28,GCF_031927985.1,Enterococcus-dongliensis,Enterococcus dongliensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_031927985.1_ASM3192798v1_genomic.fna
+NCBI25,GCF_900100125.1,Dolosicoccus-paucivorans,Dolosicoccus paucivorans,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900100125.1_IMG-taxon_2622736585_annotated_assembly_genomic.fna
+NCBI95,GCF_900102725.1,Carnobacterium-viridans,Carnobacterium viridans,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900102725.1_IMG-taxon_2634166280_annotated_assembly_genomic.fna
+NCBI38,GCF_900104595.1,Enterococcus-timonensis,"Enterococcus timonensis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900104595.1_PRJEB16349_genomic.fna
+NCBI44,GCF_900110675.1,Ignavigranum-ruoffiae,Ignavigranum ruoffiae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900110675.1_IMG-taxon_2634166308_annotated_assembly_genomic.fna
+NCBI40,GCF_900120125.1,Gemella-massiliensis,Gemella massiliensis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900120125.1_PRJEB18020_genomic.fna
+NCBI86,GCF_900143105.1,Carnobacterium-alterfunditum,Carnobacterium alterfunditum,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900143105.1_IMG-taxon_2698536812_annotated_assembly_genomic.fna
+NCBI89,GCF_900177385.1,Carnobacterium-iners,Carnobacterium iners,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900177385.1_IMG-taxon_2622736627_annotated_assembly_genomic.fna
+NCBI42,GCF_900258485.1,Helcococcus-massiliensis,"Helcococcus massiliensis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900258485.1_PRJEB22822_genomic.fna
+NCBI9,GCF_900459405.1,Streptococcus-hyointestinalis,Streptococcus hyointestinalis,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900459405.1_41965_B01_genomic.fna
+NCBI34,GCF_900604485.1,Enterococcus-mediterraneensis,"Enterococcus mediterraneensis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_900604485.1_PRJEB28790_genomic.fna
+NCBI15,GCF_903645285.1,Streptococcus-thalassemiae,Streptococcus thalassemiae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_903645285.1_Q2617_genomic.fna
+NCBI56,GCF_943192955.1,Lactococcus-muris,Lactococcus muris,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_943192955.1_Lactococcus_sp_nov1_DSM109779_genomic.fna
+NCBI2,GCF_943193075.1,Streptococcus-caecimuris,Streptococcus caecimuris,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_943193075.1_Streptococcus_sp_nov_DSM110150_genomic.fna
+NCBI53,GCF_943193185.1,Lactococcus-ileimucosae,Lactococcus ileimucosae,/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_943193185.1_Lactococcus_sp_nov2_DSM107391_genomic.fna
+NCBI1,GCF_948472335.1,Streptococcus-bouchesdurhonensis,"Streptococcus bouchesdurhonensis",/scicomp/groups/OID/NCIRD/DBD/RDB/Strep_Lab/Lynn/NCBI_AMD_DB_seqs/GCF_948472335.1_Marseille-Q6994_genomic.fna
+SS1823,NA,Abiotrophia-defectiva,Abiotrophia defectiva,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1823_82280/scaffolds.fasta
+SS1753,NA,Aerococcus-christensenii,Aerococcus christensenii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1753_127685/scaffolds.fasta
+SS1647,NA,Aerococcus-sanguinicola,Aerococcus sanguinicola,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1647_129913/scaffolds.fasta
+SS1806,NA,Aerococcus-suis,Aerococcus suis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1806_144136/scaffolds.fasta
+SS1320,NA,Aerococcus-urinae,Aerococcus urinae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1320_234889/scaffolds.fasta
+SS1705,NA,Aerococcus-urinae-biotype2,Aerococcus urinae biotype2,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1705_95796/scaffolds.fasta
+SS1321,NA,Aerococcus-urinaeequi,Aerococcus urinaeequi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1321_298343/scaffolds.fasta
+SS1678,NA,Aerococcus-urinaehominis,Aerococcus urinaehominis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1678_97653/scaffolds.fasta
+SS1935,NA,Aerococcus-vaginalis,Aerococcus vaginalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1935_332749/scaffolds.fasta
+SS1251,NA,Aerococcus-viridans,Aerococcus viridans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1251_40017/scaffolds.fasta
+SS1426,NA,Carnobacterium-divergens,Carnobacterium divergens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1426_295316/scaffolds.fasta
+SS1428,NA,Carnobacterium-gallinarum,Carnobacterium gallinarum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1428_13609/scaffolds.fasta
+SS1427,NA,Carnobacterium-mobile,Carnobacterium mobile,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1427_45517/scaffolds.fasta
+SS1429,NA,Carnobacterium-piscicola,Carnobacterium piscicola,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1429_47386/scaffolds.fasta
+SS1342,NA,Dolosigranulum-pigrum,Dolosigranulum pigrum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1342_163305/scaffolds.fasta
+SS1501,NA,Enterococcus-asini,Enterococcus asini,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1501_34624/scaffolds.fasta
+SS1777,NA,Enterococcus-caccae,Enterococcus caccae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1777_43261/scaffolds.fasta
+SS1787,NA,Enterococcus-canintestini,Enterococcus canintestini,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1787_132020/scaffolds.fasta
+SS1724,NA,Enterococcus-canis,Enterococcus canis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1724_15005/scaffolds.fasta
+SS1229,NA,Enterococcus-casseliflavus,Enterococcus casseliflavus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1229_34414/scaffolds.fasta
+SS1296,NA,Enterococcus-cecorum,Enterococcus cecorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1296_83743/scaffolds.fasta
+SS1310,NA,Enterococcus-columbae,Enterococcus columbae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1310_68580/scaffolds.fasta
+SS1791,NA,Enterococcus-devriesei,Enterococcus devriesei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1791_49687/scaffolds.fasta
+SS1793,NA,Enterococcus-termitis,Enterococcus termitis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1793_23529/scaffolds.fasta
+SS1914,NA,Enterococcus-ureilyticus,Enterococcus ureilyticus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1914_35329/scaffolds.fasta
+SS1921,NA,Enterococcus-alcedinis,Enterococcus alcedinis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1921_102342/scaffolds.fasta
+SS1788,NA,Enterococcus-aquimarinus,Enterococcus aquimarinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1788_79423/scaffolds.fasta
+SS817,NA,Enterococcus-avium,Enterococcus avium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS817_8331/scaffolds.fasta
+SS1972,NA,Enterococcus-bulliens,Enterococcus bulliens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1972_80748/scaffolds.fasta
+SS1804,NA,Enterococcus-camelliae,Enterococcus camelliae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1804_48868/scaffolds.fasta
+SS1930,NA,Enterococcus-crotali,Enterococcus crotali,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1930_27001/scaffolds.fasta
+SS1992,NA,Enterococcus-diestrammenae,Enterococcus diestrammenae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1992_24350/scaffolds.fasta
+SS1295,NA,Enterococcus-dispar,Enterococcus dispar,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1295_61749/scaffolds.fasta
+SS661,NA,Enterococcus-durans,Enterococcus durans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS661_36251/scaffolds.fasta
+SS1915,NA,Enterococcus-eurekensis,Enterococcus eurekensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1915_56854/scaffolds.fasta
+SS1273,NA,Enterococcus-faecalis,Enterococcus faecalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1273_59503/scaffolds.fasta
+SS1274,NA,Enterococcus-faecium,Enterococcus faecium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1274_116323/scaffolds.fasta
+SS1228,NA,Enterococcus-gallinarum,Enterococcus gallinarum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1228_6412/scaffolds.fasta
+SS1651,NA,Enterococcus-gilvus,Enterococcus gilvus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1651_7705/scaffolds.fasta
+SS1690,NA,Enterococcus-haemoperoxidus,Enterococcus haemoperoxidus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1690_71975/scaffolds.fasta
+SS1730,NA,Enterococcus-hawaiiensis,"""Enterococcus hawaiiensis""",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1730_55657/scaffolds.fasta
+SS1760,NA,Enterococcus-hermanniensis,Enterococcus hermanniensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1760_116094/scaffolds.fasta
+SS1227,NA,Enterococcus-hirae,Enterococcus hirae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1227_76628/scaffolds.fasta
+SS2042,NA,Enterococcus-innesii,Enterococcus innesii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2042_30861/scaffolds.fasta
+SS1728,NA,Enterococcus-italicus,Enterococcus italicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1728_1974/scaffolds.fasta
+SS1773,NA,Enterococcus-italicus,Enterococcus italicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1773_56582/scaffolds.fasta
+SS1785,NA,Enterococcus-italicus,Enterococcus italicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1785_22282/scaffolds.fasta
+SS1909,NA,Enterococcus-lactis,Enterococcus lactis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1909_82332/scaffolds.fasta
+SS1916,NA,Enterococcus-lemanii,Enterococcus lemanii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1916_47633/scaffolds.fasta
+SS1226,NA,Enterococcus-malodoratus,Enterococcus malodoratus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1226_12104/scaffolds.fasta
+SS1983,NA,Enterococcus-massiliensis,"Enterococcus massiliensis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1983_55787/scaffolds.fasta
+SS1689,NA,Enterococcus-moraviensis,Enterococcus moraviensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1689_101592/scaffolds.fasta
+SS1232,NA,Enterococcus-mundtii,Enterococcus mundtii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1232_47282/scaffolds.fasta
+SS2033,NA,Enterococcus-nangangensis,Enterococcus nangangensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2033_45489/scaffolds.fasta
+SS1956,NA,Enterococcus-olivae,Enterococcus olivae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1956_63232/scaffolds.fasta
+SS1665,NA,Enterococcus-pallens,Enterococcus pallens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1665_3100/scaffolds.fasta
+SS1721,NA,Enterococcus-phoeniculicola,Enterococcus phoeniculicola,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1721_26051/scaffolds.fasta
+SS2034,NA,Enterococcus-pingfangensis,Enterococcus pingfangensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2034_63845/scaffolds.fasta
+SS1910,NA,Enterococcus-plantarum,Enterococcus plantarum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1910_59783/scaffolds.fasta
+SS1277,NA,Enterococcus-pseudoavium,Enterococcus pseudoavium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1277_49486/scaffolds.fasta
+SS1911,NA,Enterococcus-quebecensis,Enterococcus quebecensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1911_166127/scaffolds.fasta
+SS1278,NA,Enterococcus-raffinosus,Enterococcus raffinosus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1278_9724/scaffolds.fasta
+SS1912,NA,Enterococcus-rivorum,Enterococcus rivorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1912_8816/scaffolds.fasta
+SS1913,NA,Enterococcus-rotai,Enterococcus rotai,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1913_35166/scaffolds.fasta
+SS1297,NA,Enterococcus-saccharolyticus-saccharolyticus,Enterococcus saccharolyticus subsp. Saccharolyticus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1297_68556/scaffolds.fasta
+SS1970,NA,Enterococcus-saigonensis,Enterococcus saigonensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1970_57544/scaffolds.fasta
+SS1792,NA,Enterococcus-silesiacus,Enterococcus silesiacus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1792_38959/scaffolds.fasta
+SS2035,NA,Enterococcus-songbeiensis,Enterococcus songbeiensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2035_46343/scaffolds.fasta
+SS1314,NA,Enterococcus-sulfureus,Enterococcus sulfureus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1314_109794/scaffolds.fasta
+SS1828,NA,Enterococcus-thailandicus,Enterococcus thailandicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1828_52191/scaffolds.fasta
+SS1905,NA,Enterococcus-ureasiticus,Enterococcus ureasiticus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1905_76883/scaffolds.fasta
+SS1906,NA,Enterococcus-viikkiensis,Enterococcus viikkiensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1906_34540/scaffolds.fasta
+SS1646,NA,Enterococcus-villorum,Enterococcus villorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1646_44291/scaffolds.fasta
+SS2006,NA,Enterococcus-wangshanyuanii,Enterococcus wangshanyuanii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2006_8214/scaffolds.fasta
+SS1943,NA,Enterococcus-xiangfangensis,Enterococcus xiangfangensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1943_58877/scaffolds.fasta
+SS1494,NA,Enterococcus-ratti,Enterococcus ratti,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1494_120186/scaffolds.fasta
+SS1463,NA,Facklami-hominis,Facklamia hominis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1463_155307/scaffolds.fasta
+SS1478,NA,Facklamia-ignava,Facklamia ignava,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1478_189233/scaffolds.fasta
+SS1531,NA,Facklamia-languida,Facklamia languida,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1531_209898/scaffolds.fasta
+SS1825,NA,Facklamia-miroungae,Facklamia miroungae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1825_293585/scaffolds.fasta
+SS1019,NA,Facklamia-sourekii,Facklamia sourekii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1019_73910/scaffolds.fasta
+SS1566,NA,Facklamia-tabacinasalis,Facklamia tabacinasalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1566_53905/scaffolds.fasta
+SS1507,NA,Gemella-bergeri,Gemella bergeri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1507_44207/scaffolds.fasta
+SS1671,NA,Gemella-cuniculi,Gemella cuniculi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1671_119537/scaffolds.fasta
+SS1092,NA,Gemella-haemolysans,Gemella haemolysans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1092_192320/scaffolds.fasta
+SS1091,NA,Gemella-morbillorum,Gemella morbillorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1091_354257/scaffolds.fasta
+SS1632,NA,Gemella-palaticanis,Gemella palaticanis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1632_129646/scaffolds.fasta
+SS1991,NA,Gemella-parahaemolysans,Gemella parahaemolysans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1991_147907/scaffolds.fasta
+SS1508,NA,Gemella-sanguinis,Gemella sanguinis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1508_129801/scaffolds.fasta
+SS1990,NA,Gemella-taiwanensis,Gemella taiwanensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1990_133625/scaffolds.fasta
+SS1441,NA,Globicatella-sanguinis,Globicatella sanguinis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1441_30467/scaffolds.fasta
+SS1805,NA,Globicatella-sulfidifaciens,Globicatella sulfidifaciens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1805_83576/scaffolds.fasta
+SS1824,NA,Granulicatella-adiacens,Granulicatella adiacens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1824_122224/scaffolds.fasta
+SS1633,NA,Granulicatella-balaenopterae,Granulicatella balaenopterae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1633_64016/scaffolds.fasta
+SS1509,NA,Granulicatella-elegans,Granulicatella elegans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1509_88617/scaffolds.fasta
+SS1333,NA,Helcococcus-kunzii,Helcococcus kunzii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1333_224326/scaffolds.fasta
+SS1779,NA,Helcococcus-sueciensis,Helcococcus sueciensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1779_88345/scaffolds.fasta
+SS1538,NA,Isobaculum-melis,Isobaculum melis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1538_78757/scaffolds.fasta
+SS1827,NA,Lactococcus-chungangensis,Lactococcus chungangensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1827_71879/scaffolds.fasta
+SS1907,NA,Lactococcus-cremoris-tructae,Lactococcus cremoris subsp. tructae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1907_49905/scaffolds.fasta
+SS1270,NA,Lactococcus-garvieae-garvieae,Lactococcus garvieae subsp. garvieae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1270_72065/scaffolds.fasta
+SS1950,NA,Lactococcus-hircilactis,Lactococcus hircilactis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1950_8504/scaffolds.fasta
+SS1239,NA,Lactococcus-lactis-cremoris,Lactococcus lactis subsp. cremoris,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1239_5606/scaffolds.fasta
+SS1826,NA,Lactococcus-lactis-hordniae,Lactococcus lactis subsp. hordniae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1826_27501/scaffolds.fasta
+SS855,NA,Lactococcus-lactis-lactis,Lactococcus lactis subsp. lactis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS855_53995/scaffolds.fasta
+SS1951,NA,Lactococcus-laudensis,Lactococcus laudensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1951_96914/scaffolds.fasta
+SS2046,NA,Lactococcus-petauri,Lactococcus petauri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2046_122946/scaffolds.fasta
+SS1908,NA,Lactococcus-piscium,Lactococcus piscium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1908_123404/scaffolds.fasta
+SS1253,NA,Lactococcus-plantarum,Lactococcus plantarum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1253_136586/scaffolds.fasta
+SS1176,NA,Lactococcus-raffinolactis,Lactococcus raffinolactis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1176_42951/scaffolds.fasta
+SS2019,NA,Lactococcus-reticulitermitis,Lactococcus reticulitermitis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2019_271876/scaffolds.fasta
+SS2018,NA,Lactococcus-taiwanensis,Lactococcus taiwanensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2018_111031/scaffolds.fasta
+SS1294,NA,Leuconostoc-carnosum,Leuconostoc carnosum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1294_309064/scaffolds.fasta
+SS1291,NA,Leuconostoc-citreum,Leuconostoc citreum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1291_51320/scaffolds.fasta
+SS1958,NA,Leuconostoc-fallax,Leuconostoc fallax,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1958_469588/scaffolds.fasta
+SS1959,NA,Leuconostoc-gelidum,Leuconostoc gelidum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1959_1388379/scaffolds.fasta
+SS2010,NA,Leuconostoc-holzapfelii,Leuconostoc holzapfelii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2010_112792/scaffolds.fasta
+SS1961,NA,Leuconostoc-inhae,Leuconostoc inhae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1961_118681/scaffolds.fasta
+SS1248,NA,Leuconostoc-lactis,Leuconostoc lactis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1248_57858/scaffolds.fasta
+SS1957,NA,Leuconostoc-mesenteroides-cremoris,Leuconostoc mesenteroides subsp. cremoris,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1957_29286/scaffolds.fasta
+SS1237,NA,Leuconostoc-mesenteroides-dextranicum,Leuconostoc mesenteroides subsp. dextranicum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1237_61331/scaffolds.fasta
+SS1238,NA,Leuconostoc-mesenteroides-mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1238_162321/scaffolds.fasta
+SS1964,NA,Leuconostoc-palmae,Leuconostoc palmae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1964_181723/scaffolds.fasta
+SS1292,NA,Leuconostoc-pseudomesenteroides,Leuconostoc pseudomesenteroides,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1292_159500/scaffolds.fasta
+SS1962,NA,Leuconostoc-suionicum,Leuconostoc suionicum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1962_115026/scaffolds.fasta
+SS1931,NA,Oenococcus-kitaharae,Oenococcus kitaharae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1931_363827/scaffolds.fasta
+SS2008,NA,Pediococcus-acidilactici,Pediococcus acidilactici,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2008_396530/scaffolds.fasta
+SS2009,NA,Pediococcus-argentinicus,Pediococcus argentinicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2009_42434/scaffolds.fasta
+SS1830,NA,Pediococcus-ethanolidurans,Pediococcus ethanolidurans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1830_103664/scaffolds.fasta
+SS1258,NA,Pediococcus-parvulus,Pediococcus parvulus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1258_41021/scaffolds.fasta
+SS1259,NA,Pediococcus-pentosaceus,Pediococcus pentosaceus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1259_313397/scaffolds.fasta
+SS1502,NA,Streptococcus-acidominimus,Streptococcus acidominimus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1502_7926/scaffolds.fasta
+SS1265,NA,Streptococcus-agalactiae,Streptococcus agalactiae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1265_31981/scaffolds.fasta
+SS1707,NA,Streptococcus-alactolyticus,Streptococcus alactolyticus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1707_67379/scaffolds.fasta
+SS1266,NA,Streptococcus-anginosus-anginosus,Streptococcus anginosus subsp. anginosus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1266_1001135/scaffolds.fasta
+SS1922,NA,Streptococcus-anginosus-whileyi,Streptococcus anginosus subsp. whileyi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1922_55872/scaffolds.fasta
+SS1708,NA,Streptococcus-australis,Streptococcus australis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1708_139457/scaffolds.fasta
+SS1966,NA,Streptococcus-azizii,Streptococcus azizii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1966_60353/scaffolds.fasta
+SS1965,NA,Streptococcus-bovimastitidis,Streptococcus bovimastitidis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1965_523439/scaffolds.fasta
+SS1802,NA,Streptococcus-caballi,Streptococcus caballi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1802_75888/scaffolds.fasta
+SS2055,NA,Streptococcus-caledonicus,Streptococcus caledonicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2055_114634/scaffolds.fasta
+SS1971,NA,Streptococcus-cameli,Streptococcus cameli,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1971_244587/scaffolds.fasta
+SS1786,NA,Streptococcus-canis,Streptococcus canis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1786_126245/scaffolds.fasta
+SS1969,NA,Streptococcus-caprae,Streptococcus caprae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1969_58310/scaffolds.fasta
+SS1780,NA,Streptococcus-castoreus,Streptococcus castoreus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1780_98536/scaffolds.fasta
+SS2038,NA,Streptococcus-catagoni,Streptococcus catagoni,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2038_182686/scaffolds.fasta
+SS2001,NA,Streptococcus-caviae,Streptococcus caviae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2001_150409/scaffolds.fasta
+SS2041,NA,Streptococcus-chenjunshii,Streptococcus chenjunshii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2041_8098/scaffolds.fasta
+SS2023,NA,Streptococcus-chosunense,"Streptococcus chosunense",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2023_121771/scaffolds.fasta
+SS1652,NA,Streptococcus-constellatus-constellatus,Streptococcus constellatus subsp. constellatus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1652_111241/scaffolds.fasta
+SS1740,NA,Streptococcus-constellatus-pharyngis,Streptococcus constellatus subsp. pharyngis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1740_170811/scaffolds.fasta
+SS1923,NA,Streptococcus-constellatus-viborgensis,Streptococcus constellatusn subsp. viborgensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1923_392794/scaffolds.fasta
+SS1720,NA,Streptococcus-criceti,Streptococcus criceti,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1720_82025/scaffolds.fasta
+SS1758,NA,Streptococcus-cristatus,Streptococcus cristatus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1758_491223/scaffolds.fasta
+SS1967,NA,Streptococcus-cuniculi,Streptococcus cuniculi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1967_74067/scaffolds.fasta
+SS1927,NA,Streptococcus-danieliae,Streptococcus danieliae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1927_12347/scaffolds.fasta
+SS1836,NA,Streptococcus-dentapri,Streptococcus dentapri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1836_37053/scaffolds.fasta
+SS1924,NA,Streptococcus-dentasini,Streptococcus dentasini,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1924_101021/scaffolds.fasta
+SS1984,NA,Streptococcus-dentiloxodontae,Streptococcus dentiloxodontae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1984_83224/scaffolds.fasta
+SS1803,NA,Streptococcus-dentirousetti,Streptococcus dentirousetti,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1803_52252/scaffolds.fasta
+SS1755,NA,Streptococcus-devriesei,Streptococcus devriesei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1755_186593/scaffolds.fasta
+SS1649,NA,Streptococcus-didelphis,Streptococcus didelphis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1649_942992/scaffolds.fasta
+SS1715,NA,Streptococcus-downei,Streptococcus downei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1715_114476/scaffolds.fasta
+SS2062,NA,Streptococcus-downii,Streptococcus downii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2062_280505/scaffolds.fasta
+SS1346,NA,Streptococcus-dysgalactiae-dysgalactiae,Streptococcus dysgalactiae subsp. dysgalactiae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1346_78133/scaffolds.fasta
+SS1722,NA,Streptococcus-dysgalactiae-equisimilis,Streptococcus dysgalactiae subsp. equisimilis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1722_38839/scaffolds.fasta
+SS1704,NA,Streptococcus-entericus,Streptococcus entericus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1704_105970/scaffolds.fasta
+SS1344,NA,Streptococcus-equi-equi,Streptococcus equi subsp. equi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1344_36443/scaffolds.fasta
+SS1235,NA,Streptococcus-equinus,Streptococcus equinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1235_131686/scaffolds.fasta
+SS1770,NA,Streptococcus-equi-ruminatorum,Streptococcus equi subsp. ruminatorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1770_24382/scaffolds.fasta
+SS1345,NA,Streptococcus-equi-zooepidemicus,Streptococcus equi subsp. zooepidemicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1345_57938/scaffolds.fasta
+SS1747,NA,Streptococcus-ferus,Streptococcus ferus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1747_382480/scaffolds.fasta
+SS1919,NA,Streptococcus-fryi,Streptococcus fryi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1919_55166/scaffolds.fasta
+SS1736,NA,Streptococcus-gallinaceus,Streptococcus gallinaceus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1736_229638/scaffolds.fasta
+SS1631,NA,Streptococcus-gallolyticus-gallolyticus,Streptococcus gallolyticus subsp. gallolyticus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1631_100840/scaffolds.fasta
+SS1660,NA,Streptococcus-gallolyticus-macedonicus,Streptococcus gallolyticus subsp. macedonicus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1660_71876/scaffolds.fasta
+SS1713,NA,Streptococcus-gallolyticus-pasteurianus,Streptococcus gallolyticus subsp. pasteurianus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1713_230745/scaffolds.fasta
+SS912,NA,Streptococcus-gordonii,Streptococcus gordonii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS912_229921/scaffolds.fasta
+SS1759,NA,Streptococcus-halichoeri-halichoeri,"Streptococcus halichoeri subsp. halichoeri",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1759_55699/scaffolds.fasta
+SS1844,NA,Streptococcus-halichoeri-hominis,"""Streptococcus halichoeri subsp. hominis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1844_68309/scaffolds.fasta
+SS2000,NA,Streptococcus-halotolerans,Streptococcus halotolerans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2000_78970/scaffolds.fasta
+SS1801,NA,Streptococcus-henryi,Streptococcus henryi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1801_76444/scaffolds.fasta
+SS2015,NA,Streptococcus-hillyeri,Streptococcus hillyeri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2015_49245/scaffolds.fasta
+SS2047,NA,Streptococcus-himalayensis,Streptococcus himalayensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2047_26064/scaffolds.fasta
+SS1932,NA,Streptococcus-hongkongensis,Streptococcus hongkongensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1932_106963/scaffolds.fasta
+SS1752,NA,Streptococcus-hyointestinalis,Streptococcus hyointestinalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1752_16391/scaffolds.fasta
+SS1661,NA,Streptococcus-hyovaginalis,Streptococcus hyovaginalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1661_214842/scaffolds.fasta
+SS1783,NA,Streptococcus-ictaluri,Streptococcus ictaluri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1783_27727/scaffolds.fasta
+SS2016,NA,Streptococcus-ilei,Streptococcus ilei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2016_119105/scaffolds.fasta
+SS1744,NA,Streptococcus-infantarius-coli,Streptococcus infantarius subsp. coli,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1744_58842/scaffolds.fasta
+SS1645,NA,Streptococcus-infantarius-infantarius,Streptococcus infantarius subsp. infantarius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1645_173221/scaffolds.fasta
+SS1641,NA,Streptococcus-infantis,Streptococcus infantis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1641_231791/scaffolds.fasta
+SS1056,NA,Streptococcus-iniae,Streptococcus iniae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1056_59504/scaffolds.fasta
+SS1653-1,NA,Streptococcus-intermedius,Streptococcus intermedius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1653-1_131799/scaffolds.fasta
+SS1653-2,NA,Streptococcus-intermedius,Streptococcus intermedius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1653-2_209050/scaffolds.fasta
+SS2024,NA,Streptococcus-koreensis,"Streptococcus koreensis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2024_164120/scaffolds.fasta
+SS1901,NA,Streptococcus-lactarius,Streptococcus lactarius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1901_180657/scaffolds.fasta
+SS1953,NA,Streptococcus-loxodontisalivarius,Streptococcus loxodontisalivarius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1953_39456/scaffolds.fasta
+SS1712,NA,Streptococcus-lutetiensis,Streptococcus lutetiensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1712_68595/scaffolds.fasta
+SS1716,NA,Streptococcus-macacae,Streptococcus macacae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1716_196504/scaffolds.fasta
+SS1778,NA,Streptococcus-marimammalium,Streptococcus marimammalium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1778_192275/scaffolds.fasta
+SS1999,NA,Streptococcus-marmotae,Streptococcus marmotae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1999_56692/scaffolds.fasta
+SS1829,NA,Streptococcus-massiliensis,Streptococcus massiliensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1829_36767/scaffolds.fasta
+SS1834,NA,Streptococcus-merionis,Streptococcus merionis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1834_130707/scaffolds.fasta
+SS1746,NA,Streptococcus-minor,Streptococcus minor,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1746_113037/scaffolds.fasta
+SS1303,NA,Streptococcus-mitis,Streptococcus mitis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1303_522584/scaffolds.fasta
+SS1945,NA,Streptococcus-moroccensis,Streptococcus moroccensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1945_77050/scaffolds.fasta
+SS909,NA,Streptococcus-mutans,Streptococcus mutans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS909_365479/scaffolds.fasta
+SS1948,NA,Streptococcus-oralis-dentisani,Streptococcus oralis subsp. dentisani,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1948_412366/scaffolds.fasta
+SS1236,NA,Streptococcus-oralis-oralis,Streptococcus oralis subsp. oralis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1236_230113/scaffolds.fasta
+SS1903,NA,Streptococcus-oralis-tigurinus,Streptococcus oralis subsp. tigurinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1903_83776/scaffolds.fasta
+SS1986,NA,Streptococcus-oricebi,Streptococcus oricebi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1986_78782/scaffolds.fasta
+SS1954,NA,Streptococcus-oriloxodontae,Streptococcus oriloxodontae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1954_129894/scaffolds.fasta
+SS1925,NA,Streptococcus-orisasini,Streptococcus orisasini,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1925_82540/scaffolds.fasta
+SS2036,NA,Streptococcus-oriscaviae,Streptococcus oriscaviae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2036_73081/scaffolds.fasta
+SS1650,NA,Streptococcus-orisratti,Streptococcus orisratti,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1650_48056/scaffolds.fasta
+SS1797,NA,Streptococcus-orisuis,Streptococcus orisuis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1797_59402/scaffolds.fasta
+SS1737,NA,Streptococcus-ovis,Streptococcus ovis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1737_63322/scaffolds.fasta
+SS2007,NA,Streptococcus-ovuberis,Streptococcus ovuberis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2007_36752/scaffolds.fasta
+SS1987,NA,Streptococcus-panodentis,Streptococcus panodentis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1987_22498/scaffolds.fasta
+SS1982,NA,Streptococcus-pantholopis,Streptococcus pantholopis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1982_97574/scaffolds.fasta
+SS898,NA,Streptococcus-parasanguinis,Streptococcus parasanguinis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS898_293931/scaffolds.fasta
+SS1955,NA,Streptococcus-parasuis,Streptococcus parasuis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1955_55219/scaffolds.fasta
+SS1738,NA,Streptococcus-parauberis,Streptococcus parauberis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1738_260611/scaffolds.fasta
+SS2003,NA,Streptococcus-penaeicida,Streptococcus penaeicida,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2003_253096/scaffolds.fasta
+SS2022,NA,Streptococcus-periodonticum,"Streptococcus periodonticum",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2022_301690/scaffolds.fasta
+SS1751,NA,Streptococcus-peroris,Streptococcus peroris,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1751_196290/scaffolds.fasta
+SS1968,NA,Streptococcus-pharyngis,Streptococcus pharyngis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1968_254335/scaffolds.fasta
+SS1464,NA,Streptococcus-phocae-phocae,Streptococcus phocae subsp. Phocae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1464_52215/scaffolds.fasta
+SS1934,NA,Streptococcus-phocae-salmonis,Streptococcus phocae subsp. salmonis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1934_71739/scaffolds.fasta
+SS1659,NA,Streptococcus-pluranimalium,Streptococcus pluranimalium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1659_30813/scaffolds.fasta
+SS1833,NA,Streptococcus-plurextorum,Streptococcus plurextorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1833_93942/scaffolds.fasta
+SS1735,NA,Streptococcus-pneumoniae,Streptococcus pneumoniae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1735_25096/scaffolds.fasta
+SS1832,NA,Streptococcus-porci,Streptococcus porci,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1832_70894/scaffolds.fasta
+SS1029,NA,Streptococcus-porcinus,Streptococcus porcinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1029_287511/scaffolds.fasta
+SS1841,NA,Streptococcus-porcorum,Streptococcus porcorum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1841_46856/scaffolds.fasta
+SS1757,NA,Streptococcus-pseudopneumoniae,Streptococcus pseudopneumoniae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1757_55621/scaffolds.fasta
+SS1796,NA,Streptococcus-pseudoporcinus,Streptococcus pseudoporcinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1796_151696/scaffolds.fasta
+SS-662,NA,Streptococcus-pseudoporcinus-lactis,"Streptococcus pseudoporcinus subsp. lactis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS-662_86589/scaffolds.fasta
+SS1264,NA,Streptococcus-pyogenes,Streptococcus pyogenes,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1264_45157/scaffolds.fasta
+SS1160,NA,Streptococcus-ratti,Streptococcus ratti,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1160_127283/scaffolds.fasta
+SS2004,NA,Streptococcus-respiraculi,Streptococcus respiraculi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2004_98445/scaffolds.fasta
+SS1947,NA,Streptococcus-rifensis,Streptococcus rifensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1947_171693/scaffolds.fasta
+SS1926,NA,Streptococcus-rubneri,Streptococcus rubneri,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1926_125831/scaffolds.fasta
+SS2005,NA,Streptococcus-ruminantium,Streptococcus ruminantium,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2005_99026/scaffolds.fasta
+SS1842,NA,Streptococcus-rupicaprae,Streptococcus rupicaprae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1842_28764/scaffolds.fasta
+SS1672,NA,Streptococcus-salivarius-salivarius,Streptococcus salivarius subsp. salivarius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1672_141875/scaffolds.fasta
+SS1717,NA,Streptococcus-salivarius-thermophilus,Streptococcus salivarius subsp. thermophilus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1717_91433/scaffolds.fasta
+SS1949,NA,Streptococcus-saliviloxodontae,Streptococcus saliviloxodontae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1949_43220/scaffolds.fasta
+SS910,NA,Streptococcus-sanguinis,Streptococcus sanguinis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS910_375447/scaffolds.fasta
+SS2030,NA,Streptococcus-shenyangsis,"Streptococcus shenyangsis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2030_77855/scaffolds.fasta
+SS1726,NA,Streptococcus-sinensis,Streptococcus sinensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1726_34195/scaffolds.fasta
+SS1718,NA,Streptococcus-sobrinus,Streptococcus sobrinus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1718_58512/scaffolds.fasta
+SS1741,NA,Streptococcus-suis,Streptococcus suis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1741_91534/scaffolds.fasta
+SS2029,NA,Streptococcus-symci,Streptococcus symci,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2029_252648/scaffolds.fasta
+SS1946,NA,Streptococcus-tangierensis,Streptococcus tangierensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1946_97838/scaffolds.fasta
+SS1657,NA,Streptococcus-thoraltensis,Streptococcus thoraltensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1657_104285/scaffolds.fasta
+SS2002,NA,Streptococcus-timonensis,"Streptococcus timonensis",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2002_132958/scaffolds.fasta
+SS2065,NA,Streptococcus-toyakuensis,Streptococcus toyakuensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2065_121100/scaffolds.fasta
+SS1904,NA,Streptococcus-troglodytae,Streptococcus troglodytae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1904_165639/scaffolds.fasta
+SS1942,NA,Streptococcus-troglodytidis,Streptococcus troglodytidis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1942_87008/scaffolds.fasta
+SS1742,NA,Streptococcus-uberis,Streptococcus uberis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1742_1067636/scaffolds.fasta
+SS1539,NA,Streptococcus-urinalis,Streptococcus urinalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1539_285713/scaffolds.fasta
+SS1902,NA,Streptococcus-ursoris,Streptococcus ursoris,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1902_109914/scaffolds.fasta
+SS1985,NA,Streptococcus-varani,"Streptococcus varani",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1985_34211/scaffolds.fasta
+SS1285,NA,Streptococcus-vestibularis,Streptococcus vestibularis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1285_111050/scaffolds.fasta
+SS2039,NA,Streptococcus-vicugnae,Streptococcus vicugnae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2039_555916/scaffolds.fasta
+SS2040,NA,Streptococcus-zalophi,Streptococcus zalophi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2040_169108/scaffolds.fasta
+SS1719,NA,Tetragenococcus-halophilus-halophilus,Tetragenococcus halophilus subsp. halophilus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1719_34266/scaffolds.fasta
+SS1279,NA,Tetragenococcus-solitarius,Tetragenococcus solitarius,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1279_36935/scaffolds.fasta
+SS1853,NA,Vagococcus-acidifermentans,Vagococcus acidifermentans,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1853_53848/scaffolds.fasta
+SS1994,NA,Vagococcus-bubulae,Vagococcus bubulae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1994_96184/scaffolds.fasta
+SS1714,NA,Vagococcus-carniphilus,Vagococcus carniphilus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1714_33281/scaffolds.fasta
+SS1822,NA,Vagococcus-elongatus,Vagococcus elongatus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1822_42239/scaffolds.fasta
+SS1933,NA,Vagococcus-entomophilus,Vagococcus entomophilus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1933_124928/scaffolds.fasta
+SS1709,NA,Vagococcus-fessus,Vagococcus fessus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1709_136765/scaffolds.fasta
+SS1339,NA,Vagococcus-fluvialis,Vagococcus fluvialis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1339_120250/scaffolds.fasta
+SS1996,NA,Vagococcus-humatus,Vagococcus humatus,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1996_187111/scaffolds.fasta
+SS2032,NA,Vagococcus-hydrophili,Vagococcus hydrophili,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2032_64886/scaffolds.fasta
+SS1565,NA,Vagococcus-lutrae,Vagococcus lutrae,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1565_115140/scaffolds.fasta
+SS1997,NA,Vagococcus-martis,Vagococcus martis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1997_37207/scaffolds.fasta
+SS1854,NA,Vagococcus-penaei,Vagococcus penaei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1854_88738/scaffolds.fasta
+SS1340,NA,Vagococcus-salmoninarum,Vagococcus salmoninarum,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1340_31081/scaffolds.fasta
+SS2037,NA,Vagococcus-silagei,Vagococcus silagei,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2037_57672/scaffolds.fasta
+SS1998,NA,Vagococcus-teuberi,Vagococcus teuberi,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1998_112257/scaffolds.fasta
+SS1995,NA,Vagococcus-vulneris,Vagococcus vulneris,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1995_99605/scaffolds.fasta
+SS2025,NA,Vagococcus-xieshaowenii,Vagococcus xieshaowenii,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2025_78421/scaffolds.fasta
+SS2026,NA,Vagococcus-zengguangii,"Vagococcus zengguangii",/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2026_158641/scaffolds.fasta
+SS1250,NA,Weissella-paramesenteroides,Weissella paramesenteroides,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1250_148845/scaffolds.fasta
+SS1409,NA,Weissella-confusa,Weissella confusa corrig.,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1409_64290/scaffolds.fasta
+SS2011,NA,Weissella-fabalis,Weissella fabalis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2011_142330/scaffolds.fasta
+SS2012,NA,Weissella-hellenica,Weissella hellenica,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2012_100048/scaffolds.fasta
+SS2013,NA,Weissella-soli,Weissella soli,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2013_337661/scaffolds.fasta
+SS2014,NA,Weissella-thailandensis,Weissella thailandensis,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS2014_88721/scaffolds.fasta
+SS1410,NA,Weissella-viridescens,Weissella viridescens,/scicomp/groups-pure/OID/NCIRD/DBD/RDB/Strep_Lab/spades_reassembled/sample_SS1410_152391/scaffolds.fasta
